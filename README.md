@@ -1,1 +1,1 @@
-# interpreter-in-go
+# interpreter-go
